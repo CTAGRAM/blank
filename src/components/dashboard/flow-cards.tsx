@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { ArrowRight, GraduationCap, Sparkles } from "lucide-react";
+import { ArrowRight, GraduationCap, Sparkles, Star } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 
